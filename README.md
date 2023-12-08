@@ -28,3 +28,4 @@ python inference_unet.py  -img_dir ./test_images -model_path ./models/model_vgg_
 ```
 
 # Citation
+https://github.com/khanhha/crack_segmentation
